@@ -1,5 +1,8 @@
 Parameters:
+ ## Escolhendo a keypair ##
   ## Escolhendo a keypair ##
+   ## Escolhendo a keypair ##pokemon
+## Escolhendo a keypair ##
   myKeyPair:
     Description: Amazon EC2 Key Pair 
     Type: AWS::EC2::KeyPair::KeyName

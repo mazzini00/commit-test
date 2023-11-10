@@ -4,8 +4,11 @@ import boto3
 
 ACCESS_KEY = 'AKIA6I5TH4GFJP7Y7PVX'
 SECRET_KEY = 'zrjD1s MetIDwj1sbZ2BuP85zrywxJSO0UioUSah'
-
 #To get the table object from DynamoDB
+#To get the table object from DynamoDB
+#To get the table object from DynamoDB
+#To get the table object from DynamoDB
+#pokemon louco
 def getTable(table_name, ACCESS_KEY, SECRET_KEY):
 	session = boto3.Session(aws_access_key_id=ACCESS_KEY, aws_secret_access_key= SECRET_KEY)
 #Create a DynamoDB resource
